@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Fri Mar 10 00:22:30 CST 2017
+org.eclipse.jst.jee.server\:JAVA.ADV.servlet=C\:\\Users\\ezio4\\Desktop\\JOB to-do\\Java Softwares\\apache-tomcat-7.0.37\\wtpwebapps\\JAVA.ADV.servlet
+org.eclipse.jst.jee.server\:Sidbitwar=C\:\\Users\\ezio4\\Desktop\\JOB to-do\\Java Softwares\\apache-tomcat-7.0.37\\wtpwebapps\\Sidbitwar

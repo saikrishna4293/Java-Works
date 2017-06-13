@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app>  
+  
+<servlet>  
+<servlet-name>VoterCriteria</servlet-name>  
+<servlet-class>sidhu.servlets.VoterCriteria</servlet-class>  
+</servlet>  
+  
+<servlet-mapping>  
+<servlet-name>VoterCriteria</servlet-name>  
+<url-pattern>/voter</url-pattern>  
+</servlet-mapping>  
+  
+</web-app>
